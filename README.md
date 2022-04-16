@@ -1,5 +1,6 @@
-# SNRQ
-Python implementation of Sequential Non-rigid Quantization algorithm.
+# Sequential Non-rigid Quantization algorithm (SNRQ)
+Python implementation of "Beyond neighbourhood-preserving transformations for quantization-based unsupervised hashing" paper.
+
 # How to use?
 1- Download and unzip the dataset: <br />
 [mnist_gist512](https://www.dropbox.com/s/97suefbk4aaa26c/mnist_gist512.zip?dl=0) <br />
