@@ -32,4 +32,4 @@ n_iter=70 #number of iterations
 
 3- Run the demo_SNRQ.py
 
-# If you need further training speed, implement the derivative using Tensorflow and use GPU
+# If you need further training speed, calculate the gradinets using Tensorflow and GPU
